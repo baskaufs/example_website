@@ -9,4 +9,4 @@ social:
 - {icon: 'instagram', link: 'https://instagram.com/baskaufs'}
 
 contacts:
-- {name: 'Steve Baskauf', title: 'Data Science and Data Curation Specialist', department: 'Digital Scholarship and Communications (DiSC)', institution: 'Vanderbilt University Libraries', institution_address: 'Nashville, Tennessee, USA', phone: '(615) 123-4567', email: 'steve.baskauf@vanderbilt.edu', office: 'Eskind Biometical Library 111', image: 'assets/img/contact.jpg'}
+- {name: 'Steve Le Baskoof', title: 'Adventurer and agent provacateur', department: 'Digital Scholarship and Communications (DiSC)', institution: 'Vanderbilt University Libraries', institution_address: 'Nashville, Tennessee, USA', phone: '(615) 123-4567', email: 'steve.baskauf@vanderbilt.edu', office: 'Eskind Biometical Library 111', image: 'assets/img/contact.jpg'}
