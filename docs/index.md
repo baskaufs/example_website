@@ -1,0 +1,4 @@
+- Adventurer
+- Scholar
+- Ecologist
+- Data nerd
